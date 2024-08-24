@@ -9,7 +9,7 @@ This project is simply to demonstrate the use of smart contracts to interact wit
 
 ### Installing
 
-* git clone 
+* git clone https://github.com/Boluchel/Country-Independence-Setter-Getter.git
 * npm install
 
 ### Executing program
@@ -24,7 +24,7 @@ npx hardhat compile
 
 ## Authors
 
-Banwo Olorunsogo
+Banwo Boluwatife
 
 
 ## License
