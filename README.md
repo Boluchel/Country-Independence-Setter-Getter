@@ -1,7 +1,7 @@
 # Country Independence Setter & Getter
 
 ## Overview
-his project demonstrates the interaction between a smart contract and a user interface (frontend) for a decentralized application (dApp). It allows users to update and retrieve country names and years of independence.
+This project demonstrates the interaction between a smart contract and a user interface (frontend) for a decentralized application (dApp). It allows users to update and retrieve country names and years of independence.
 
 ## Description
 This project showcases a simple smart contract that stores and updates country information, which can be interacted with through a frontend interface. The contract includes functions to:
